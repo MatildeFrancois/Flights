@@ -109,7 +109,6 @@ public class FlightDAO {
 	}
 
 	
-	
 
 	//public static void main(String args[]) {
 	//	FlightDAO dao = new FlightDAO();
